@@ -1,0 +1,7 @@
+
+[BatteryDuration]
+	#percentage of battery lost per tick
+	FlashlightDrainRate = 0.001
+	#percentage of battery lost per tick
+	ShakelightDrainRate = 0.8
+

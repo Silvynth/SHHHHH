@@ -1,0 +1,30 @@
+# --- CARPETAS DE JUEGO Y DATOS PERSONALES ---
+saves/
+logs/
+crash-reports/
+screenshots/
+essential/
+local/
+temp/
+xaero/
+XaeroWaypoints_BACKUP*/
+.mixin.out/
+usercache.json
+usernamecache.json
+
+# --- ARCHIVOS DE CONFIGURACIÓN PERSONAL ---
+# Ignoramos options.txt porque tiene el volumen/sensibilidad de TU PC
+options.txt
+rhino.local.properties
+
+# --- ARCHIVOS DE LA INSTANCIA (CurseForge/Prism) ---
+.curseclient
+minecraftinstance.json
+
+# --- BACKUPS ---
+tacz_backup/
+*backups/
+
+# --- ARCHIVOS DE DESARROLLO (Si no usas Gradle, puedes dejarlos) ---
+build.gradle
+.git/
