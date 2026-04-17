@@ -11,6 +11,7 @@ XaeroWaypoints_BACKUP*/
 .mixin.out/
 usercache.json
 usernamecache.json
+schematics/
 
 # --- ARCHIVOS DE CONFIGURACIÓN PERSONAL ---
 # Ignoramos options.txt porque tiene el volumen/sensibilidad de TU PC
