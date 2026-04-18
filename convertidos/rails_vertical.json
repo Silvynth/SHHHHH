@@ -1,0 +1,338 @@
+{
+  "exportedpart": {
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     ",
+        "    caaaaad     "
+      ],
+      [
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief gjfhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief gjfhk    ",
+        "   ief gjfhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    ",
+        "   ief g fhk    "
+      ],
+      [
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    "
+      ],
+      [
+        "   b       b    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   b       b    "
+      ],
+      [
+        "   b       b    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   b       b    "
+      ],
+      [
+        "   b       b    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   b       b    "
+      ],
+      [
+        "   b       b    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   a       a    ",
+        "   b       b    "
+      ],
+      [
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    ",
+        "   bl     mb    "
+      ],
+      [
+        "   hbnnnnnbe    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hb     be    ",
+        "   hbooooobe    "
+      ],
+      [
+        "    pbbbbbq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    paaaaaq     ",
+        "    pbbbbbq     "
+      ]
+    ]
+  },
+  "palette": [
+    {
+      "char": "a",
+      "block": "create:cut_deepslate_bricks"
+    },
+    {
+      "char": "b",
+      "block": "create:layered_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "d",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "e",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "f",
+      "block": "create:cut_deepslate_brick_slab",
+      "properties": {
+        "waterlogged": "false",
+        "type": "bottom"
+      }
+    },
+    {
+      "char": "g",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "zo",
+        "turn": "false"
+      }
+    },
+    {
+      "char": "h",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "i",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "j",
+      "block": "railways:casing_collision",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "char": "k",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "l",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "m",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "n",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "o",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "p",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "q",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    }
+  ]
+}

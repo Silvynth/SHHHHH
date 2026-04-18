@@ -1,0 +1,516 @@
+{
+  "exportedpart": {
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        " ccccdkaaaaand  ",
+        " c   gkaaaaan   ",
+        " ccc hkaaaaan   ",
+        " dddghkaaaaan   ",
+        " eeeeelaaaaan   ",
+        " aaaaaaaaaaan   ",
+        " aaaaaaaaaaan   ",
+        " aaaaaaaaaaan   ",
+        " aaaaaaaaaaan   ",
+        " aaaaaaaaaaan   ",
+        " fffffmaaaaan   ",
+        " d   ikaaaaan   ",
+        " c   jkaaaaan   ",
+        " c   hkaaaaan   ",
+        " c   gkaaaaan   ",
+        " ccccdkaaaaand  "
+      ],
+      [
+        " cccckvpDGDpyn  ",
+        " c   kv DGDpyn  ",
+        " ccc kv FGDpyn  ",
+        " eeeerw FGDpyn  ",
+        " oooos FDGDpyn  ",
+        " pp   F DGDpyn  ",
+        " D  FF  DGDpyn  ",
+        " EFF    DGDpyn  ",
+        " D  FF  DGDpyn  ",
+        " pp   F DGDpyn  ",
+        " qqqqt FDGDpyn  ",
+        " ffffux DGDpyn  ",
+        " c   kv FGDpyn  ",
+        " c   kv DGDpyn  ",
+        " c   kvpDGDpyn  ",
+        " cccckvpDGDpyn  "
+      ],
+      [
+        " ccccb       b  ",
+        " c   b       b  ",
+        " ccc b       b  ",
+        " bbbb        b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        " bbbb        b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " ccccb       b  "
+      ],
+      [
+        " ccccb       b  ",
+        " c   b       b  ",
+        " ccc b       b  ",
+        " bbbb        b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        " bbbb        b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " ccccb       b  "
+      ],
+      [
+        " ccccb       b  ",
+        " c   b       b  ",
+        " ccc b       b  ",
+        " bbbb        b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        " bbbb        b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " ccccb       b  "
+      ],
+      [
+        " ccccb       b  ",
+        " c   b       b  ",
+        " ccc b       b  ",
+        " bbbb        b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        " bbbb        b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " ccccb       b  "
+      ],
+      [
+        " ccccb       b  ",
+        " c   b       b  ",
+        " ccc b       b  ",
+        " bbbb        b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        "             b  ",
+        " bbbb        b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " c   b       b  ",
+        " ccccb       b  "
+      ],
+      [
+        " ccccbJ     Kb  ",
+        " c   bJ     Kb  ",
+        " cdg bJ     Kb  ",
+        " bbbbb      Kb  ",
+        " HHHH       Kb  ",
+        "            Kb  ",
+        "            Kb  ",
+        "            Kb  ",
+        "            Kb  ",
+        "            Kb  ",
+        " IIII       Kb  ",
+        " bbbbb      Kb  ",
+        " c   bJ     Kb  ",
+        " c   bJ     Kb  ",
+        " c   bJ     Kb  ",
+        " ccccbJ     Kb  "
+      ],
+      [
+        " ccccybHHHHHbv  ",
+        " c   yb     bv  ",
+        " c   yb     bv  ",
+        " qqqqzb     bv  ",
+        " bbbbbb     bv  ",
+        " J          bv  ",
+        " J          bv  ",
+        " J          bv  ",
+        " J          bv  ",
+        " J          bv  ",
+        " bbbbbb     bv  ",
+        " ooooAb     bv  ",
+        " c   yb     bv  ",
+        " c   yb     bv  ",
+        " c   yb     bv  ",
+        " ccccybIIIIIbv  "
+      ],
+      [
+        " cccccybbbbbvc  ",
+        " c    ybbbbbv   ",
+        " c    ybbbbbv   ",
+        " c    ybbbbbv   ",
+        " qqqqqBbbbbbv   ",
+        " bbbbbbbbbbbv   ",
+        " bbbbbbbbbbbv   ",
+        " bbbbbbbbbbbv   ",
+        " bbbbbbbbbbbv   ",
+        " bbbbbbbbbbbv   ",
+        " oooooCbbbbbv   ",
+        " c    ybbbbbv   ",
+        " c    ybbbbbv   ",
+        " c    ybbbbbv   ",
+        " c    ybbbbbv   ",
+        " cccccybbbbbvc  "
+      ]
+    ]
+  },
+  "palette": [
+    {
+      "char": "a",
+      "block": "create:cut_deepslate_bricks"
+    },
+    {
+      "char": "b",
+      "block": "create:layered_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "8"
+      }
+    },
+    {
+      "char": "d",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "1"
+      }
+    },
+    {
+      "char": "e",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "f",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "2"
+      }
+    },
+    {
+      "char": "h",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "3"
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "5"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "4"
+      }
+    },
+    {
+      "char": "k",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "l",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "inner_right",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "m",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "inner_left",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "n",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "o",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "p",
+      "block": "create:cut_deepslate_brick_slab",
+      "properties": {
+        "waterlogged": "false",
+        "type": "bottom"
+      }
+    },
+    {
+      "char": "q",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "r",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "outer_left",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "s",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "outer_right",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "t",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "outer_left",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "u",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "outer_right",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "v",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "w",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "outer_left",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "x",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "outer_right",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "y",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "z",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_right",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "A",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_left",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "B",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_left",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "C",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_right",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "D",
+      "block": "railways:casing_collision",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "char": "E",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "xo",
+        "turn": "true"
+      }
+    },
+    {
+      "char": "F",
+      "block": "create:fake_track",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "char": "G",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "zo",
+        "turn": "true"
+      }
+    },
+    {
+      "char": "H",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "I",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "J",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "K",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "east"
+      }
+    }
+  ]
+}

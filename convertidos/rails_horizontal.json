@@ -1,0 +1,298 @@
+{
+  "exportedpart": {
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "cccccccccccccccc",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "aaaaaaaaaaaaaaaa",
+        "dddddddddddddddd",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "cccccccccccccccc",
+        "eeeeeeeeeeeeeeee",
+        "ffffffffffffffff",
+        "                ",
+        "gggggggggggggggg",
+        "  i   i        i",
+        "ffffffffffffffff",
+        "hhhhhhhhhhhhhhhh",
+        "dddddddddddddddd",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "baaaaaaaaaaaaaab",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "jjjjjjjjjjjjjjjj",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "kkkkkkkkkkkkkkkk",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "hhhhhhhhhhhhhhhh",
+        "bbbbbbbbbbbbbbbb",
+        "l              m",
+        "l              m",
+        "l              m",
+        "l              m",
+        "l              m",
+        "bbbbbbbbbbbbbbbb",
+        "eeeeeeeeeeeeeeee",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "hhhhhhhhhhhhhhhh",
+        "baaaaaaaaaaaaaab",
+        "baaaaaaaaaaaaaab",
+        "baaaaaaaaaaaaaab",
+        "baaaaaaaaaaaaaab",
+        "baaaaaaaaaaaaaab",
+        "eeeeeeeeeeeeeeee",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  "palette": [
+    {
+      "char": "a",
+      "block": "create:cut_deepslate_bricks"
+    },
+    {
+      "char": "b",
+      "block": "create:layered_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "d",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "e",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "f",
+      "block": "create:cut_deepslate_brick_slab",
+      "properties": {
+        "waterlogged": "false",
+        "type": "bottom"
+      }
+    },
+    {
+      "char": "g",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "xo",
+        "turn": "false"
+      }
+    },
+    {
+      "char": "h",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "i",
+      "block": "railways:casing_collision",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "char": "j",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "k",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "l",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "m",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "east"
+      }
+    }
+  ]
+}

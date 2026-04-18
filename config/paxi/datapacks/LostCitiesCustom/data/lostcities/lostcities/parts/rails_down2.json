@@ -1,0 +1,254 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "slices": [
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "________________",
+      "________________",
+      "___________aaaaa",
+      "___________aaaaa",
+      "___________aaaaa",
+      "___________aaaaa",
+      "___________aaaaa",
+      "________________",
+      "________________",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "___________ccccc",
+      "___________dhhhh",
+      "_________aaeiiii",
+      "_________aa_____",
+      "_________aa__lmk",
+      "_________aa_____",
+      "_________aaeiiii",
+      "___________fjjjj",
+      "___________ggggg",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "_________ccbbbbb",
+      "_________dh_____",
+      "_______aaei_____",
+      "_______aa_______",
+      "_______aa_lll___",
+      "_______aa_______",
+      "_______aaei_____",
+      "_________fj_____",
+      "_________ggbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "_______ccbbbbbbb",
+      "_______dh_______",
+      "______aei_______",
+      "______a_________",
+      "______a__l______",
+      "______a_________",
+      "______aei_______",
+      "_______fj_______",
+      "_______ggbbbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "______cbbbbbbbbb",
+      "______d_________",
+      "____aae_________",
+      "____aa__________",
+      "____aa_ll_______",
+      "____aa__________",
+      "____aae_________",
+      "______f_________",
+      "______gbbbbbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "____ccbbbbbbbbbb",
+      "____dh__________",
+      "aaaaei__________",
+      "aaaa____________",
+      "aaaa_ll_________",
+      "aaaa____________",
+      "aaaaei__________",
+      "____fj__________",
+      "____ggbbbbbbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "ccccbbbbbbbbbbbb",
+      "hhhh____________",
+      "iiii____________",
+      "________________",
+      "kmlll___________",
+      "________________",
+      "iiii____________",
+      "jjjj____________",
+      "ggggbbbbbbbbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "____bbbbbbbbbbbb",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "____bbbbbbbbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "____bbbbbbbbbbbb",
+      "___________nnnnn",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "___________ooooo",
+      "____bbbbbbbbbbbb",
+      "                ",
+      "                ",
+      "                "
+    ],
+    [
+      "                ",
+      "                ",
+      "                ",
+      "                ",
+      "____bbbbbbbjjjjj",
+      "_________nnbbbbb",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "________________",
+      "_________oobbbbb",
+      "____bbbbbbbhhhhh",
+      "                ",
+      "                ",
+      "                "
+    ]
+  ],
+  "palette": {
+    "palette": [
+      {
+        "char": "_",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "b",
+        "block": "create:layered_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "create:cut_deepslate_brick_stairs[half=top,waterlogged=false,shape=straight,facing=south]"
+      },
+      {
+        "char": "d",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=inner_left,facing=north]"
+      },
+      {
+        "char": "e",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=straight,facing=west]"
+      },
+      {
+        "char": "f",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=inner_right,facing=south]"
+      },
+      {
+        "char": "g",
+        "block": "create:cut_deepslate_brick_stairs[half=top,waterlogged=false,shape=straight,facing=north]"
+      },
+      {
+        "char": "h",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=straight,facing=north]"
+      },
+      {
+        "char": "i",
+        "block": "create:cut_deepslate_brick_slab[waterlogged=false,type=bottom]"
+      },
+      {
+        "char": "j",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=straight,facing=south]"
+      },
+      {
+        "char": "k",
+        "block": "create:track[waterlogged=false,shape=xo,turn=false]"
+      },
+      {
+        "char": "l",
+        "block": "create:fake_track[waterlogged=false]"
+      },
+      {
+        "char": "m",
+        "block": "create:track[waterlogged=false,shape=xo,turn=true]"
+      },
+      {
+        "char": "n",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "o",
+        "block": "create:cut_deepslate_bricks"
+      }
+    ]
+  }
+}

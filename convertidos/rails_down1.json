@@ -1,0 +1,600 @@
+{
+  "exportedpart": {
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "               a",
+        "               a",
+        "               a",
+        "               a",
+        "               a",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "               c",
+        "               d",
+        "              ae",
+        "              a ",
+        "              a ",
+        "              a ",
+        "              ae",
+        "               f",
+        "               g",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "              cb",
+        "              d ",
+        "             ae ",
+        "             a  ",
+        "             a n",
+        "             a  ",
+        "             ae ",
+        "              f ",
+        "              gb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "             cbb",
+        "             d  ",
+        "            ae  ",
+        "            a   ",
+        "            aon ",
+        "            a   ",
+        "            ae  ",
+        "             f  ",
+        "             gbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "            cbbb",
+        "            d   ",
+        "           ae   ",
+        "           a    ",
+        "           ah   ",
+        "           a    ",
+        "           ae   ",
+        "            f   ",
+        "            gbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "           cbbbb",
+        "           d    ",
+        "          ae    ",
+        "          a     ",
+        "          ah    ",
+        "          a     ",
+        "          ae    ",
+        "           f    ",
+        "           gbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "          cbbbbb",
+        "          d     ",
+        "         ae     ",
+        "         a      ",
+        "         ah     ",
+        "         a      ",
+        "         ae     ",
+        "          f     ",
+        "          gbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "         cbbbbbb",
+        "         d      ",
+        "        ae      ",
+        "        a       ",
+        "        ah      ",
+        "        a       ",
+        "        ae      ",
+        "         f      ",
+        "         gbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "        cbbbbbbb",
+        "        d      p",
+        "       ae       ",
+        "       a        ",
+        "       ah       ",
+        "       a        ",
+        "       ae       ",
+        "        f      q",
+        "        gbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "       cbbbbbbbi",
+        "       d      pb",
+        "      ae        ",
+        "      a         ",
+        "      ah        ",
+        "      a         ",
+        "      ae        ",
+        "       f      qb",
+        "       gbbbbbbbj",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "      cbbbbbbbi ",
+        "      d      pbi",
+        "     ae        b",
+        "     a         b",
+        "     ah        b",
+        "     a         b",
+        "     ae        b",
+        "      f      qbj",
+        "      gbbbbbbbj ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "     cbbbbbbbi  ",
+        "     d      pbi ",
+        "    ae        b ",
+        "    a         b ",
+        "    ao        b ",
+        "    a         b ",
+        "    ae        b ",
+        "     f      qbj ",
+        "     gbbbbbbbj  ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "    cbbbbbbbi   ",
+        "    d      pbi  ",
+        "  aae        b  ",
+        "  aa         b  ",
+        "  aa         b  ",
+        "  aa         b  ",
+        "  aae        b  ",
+        "    f      qbj  ",
+        "    gbbbbbbbj   ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "  ccbbbbbbbi    ",
+        "  kj      pbi   ",
+        "aall        b   ",
+        "aa          b   ",
+        "aa nn       b   ",
+        "aa          b   ",
+        "aall        b   ",
+        "  mi      qbj   ",
+        "  ggbbbbbbbj    ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "ccbbbbbbbbi     ",
+        "jj       pbi    ",
+        "ll         b    ",
+        "           b    ",
+        "rnn        b    ",
+        "           b    ",
+        "ll         b    ",
+        "ii       qbj    ",
+        "ggbbbbbbbbj     ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbi      ",
+        "        pbi     ",
+        "          b     ",
+        "          b     ",
+        "          b     ",
+        "          b     ",
+        "          b     ",
+        "        qbj     ",
+        "bbbbbbbbbj      ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbi       ",
+        "       pbi      ",
+        "         b      ",
+        "         b      ",
+        "         b      ",
+        "         b      ",
+        "         b      ",
+        "       qbj      ",
+        "bbbbbbbbj       ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbi        ",
+        "      pbi       ",
+        "        b       ",
+        "        b       ",
+        "        b       ",
+        "        b       ",
+        "        b       ",
+        "      qbj       ",
+        "bbbbbbbj        ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbi         ",
+        "     pbi        ",
+        "       b        ",
+        "       b        ",
+        "       b        ",
+        "       b        ",
+        "       b        ",
+        "     qbj        ",
+        "bbbbbbj         ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbi          ",
+        "    pbi         ",
+        "      b         ",
+        "      b         ",
+        "      b         ",
+        "      b         ",
+        "      b         ",
+        "    qbj         ",
+        "bbbbbj          ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbi           ",
+        "  ppbi          ",
+        "     b          ",
+        "     b          ",
+        "     b          ",
+        "     b          ",
+        "     b          ",
+        "  qqbj          ",
+        "bbbbj           ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbii            ",
+        "ppbbi           ",
+        "    b           ",
+        "    b           ",
+        "    b           ",
+        "    b           ",
+        "    b           ",
+        "qqbbj           ",
+        "bbjj            ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "ii              ",
+        "bbii            ",
+        "  bb            ",
+        "  bb            ",
+        "  bb            ",
+        "  bb            ",
+        "  bb            ",
+        "bbjj            ",
+        "jj              ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "ii              ",
+        "bb              ",
+        "bb              ",
+        "bb              ",
+        "bb              ",
+        "bb              ",
+        "jj              ",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  "palette": [
+    {
+      "char": "a",
+      "block": "create:cut_deepslate_bricks"
+    },
+    {
+      "char": "b",
+      "block": "create:layered_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "d",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_left",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "e",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "f",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_right",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "g",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "h",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "aw",
+        "turn": "false"
+      }
+    },
+    {
+      "char": "i",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "j",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "k",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_right",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "l",
+      "block": "create:cut_deepslate_brick_slab",
+      "properties": {
+        "waterlogged": "false",
+        "type": "bottom"
+      }
+    },
+    {
+      "char": "m",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "inner_left",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "n",
+      "block": "create:fake_track",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "char": "o",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "aw",
+        "turn": "true"
+      }
+    },
+    {
+      "char": "p",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "q",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "r",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "xo",
+        "turn": "true"
+      }
+    }
+  ]
+}

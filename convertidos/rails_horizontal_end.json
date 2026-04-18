@@ -1,0 +1,265 @@
+{
+  "exportedpart": {
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "cccccccccccccccc",
+        "aaaaaaaaaaaaaaab",
+        "aaaaaaaaaaaaaaab",
+        "aaaaaaaaaaaaaaab",
+        "aaaaaaaaaaaaaaab",
+        "aaaaaaaaaaaaaaab",
+        "dddddddddddddddd",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "cccccccccccccccc",
+        "eeeeeeeeeeeeeeeb",
+        "fffffffffffffffb",
+        "           ffffb",
+        "gggggggggggffffb",
+        "           ffffb",
+        "fffffffffffffffb",
+        "hhhhhhhhhhhhhhhb",
+        "dddddddddddddddd",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "          i    b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "hhhhhhhhhhhhhhhh",
+        "bbbbbbbbbbbbbbbb",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "               b",
+        "bbbbbbbbbbbbbbbb",
+        "eeeeeeeeeeeeeeee",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ],
+      [
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "hhhhhhhhhhhhhhhh",
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb",
+        "bbbbbbbbbbbbbbbb",
+        "eeeeeeeeeeeeeeee",
+        "                ",
+        "                ",
+        "                ",
+        "                ",
+        "                "
+      ]
+    ]
+  },
+  "palette": [
+    {
+      "char": "a",
+      "block": "create:cut_deepslate_bricks"
+    },
+    {
+      "char": "b",
+      "block": "create:layered_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "d",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "e",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "f",
+      "block": "create:cut_deepslate_brick_slab",
+      "properties": {
+        "waterlogged": "false",
+        "type": "bottom"
+      }
+    },
+    {
+      "char": "g",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "xo",
+        "turn": "false"
+      }
+    },
+    {
+      "char": "h",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "i",
+      "block": "railways:buffer",
+      "properties": {
+        "waterlogged": "false",
+        "facing": "west",
+        "style": "standard",
+        "diagonal": "false"
+      }
+    }
+  ]
+}

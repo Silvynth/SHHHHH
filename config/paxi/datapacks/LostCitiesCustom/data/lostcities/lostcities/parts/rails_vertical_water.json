@@ -1,0 +1,282 @@
+{
+  "xsize": 16,
+  "zsize": 16,
+  "slices": [
+    [
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafd   ",
+      "    deaaaaafg   "
+    ],
+    [
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   ",
+      "    mhinonijp   "
+    ],
+    [
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   ",
+      "    b_______b   "
+    ],
+    [
+      "    b_______b   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    b_______b   "
+    ],
+    [
+      "    b_______b   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    b_______b   "
+    ],
+    [
+      "    b_______b   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    b_______b   "
+    ],
+    [
+      "    b_______b   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    c_______c   ",
+      "    b_______b   "
+    ],
+    [
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   ",
+      "    bq_____rb   "
+    ],
+    [
+      "    kbsssssbl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kb_____bl   ",
+      "    kbtttttbl   "
+    ],
+    [
+      "    dubbbbbvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    ducccccvd   ",
+      "    dubbbbbvd   "
+    ]
+  ],
+  "palette": {
+    "palette": [
+      {
+        "char": "_",
+        "block": "minecraft:air"
+      },
+      {
+        "char": "a",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "b",
+        "block": "create:layered_deepslate"
+      },
+      {
+        "char": "c",
+        "block": "create:framed_glass"
+      },
+      {
+        "char": "d",
+        "block": "minecraft:water[level=0]"
+      },
+      {
+        "char": "e",
+        "block": "create:cut_deepslate_brick_stairs[half=top,waterlogged=true,shape=straight,facing=east]"
+      },
+      {
+        "char": "f",
+        "block": "create:cut_deepslate_brick_stairs[half=top,waterlogged=true,shape=straight,facing=west]"
+      },
+      {
+        "char": "g",
+        "block": "minecraft:kelp[age=23]"
+      },
+      {
+        "char": "h",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=straight,facing=west]"
+      },
+      {
+        "char": "i",
+        "block": "create:cut_deepslate_brick_slab[waterlogged=false,type=bottom]"
+      },
+      {
+        "char": "j",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=false,shape=straight,facing=east]"
+      },
+      {
+        "char": "k",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=true,shape=straight,facing=east]"
+      },
+      {
+        "char": "l",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=true,shape=straight,facing=west]"
+      },
+      {
+        "char": "m",
+        "block": "create:cut_deepslate_brick_stairs[half=top,waterlogged=false,shape=straight,facing=east]"
+      },
+      {
+        "char": "n",
+        "block": "railways:casing_collision[waterlogged=false]"
+      },
+      {
+        "char": "o",
+        "block": "create:track[waterlogged=false,shape=zo,turn=true]"
+      },
+      {
+        "char": "p",
+        "block": "create:cut_deepslate_brick_stairs[half=top,waterlogged=true,shape=straight,facing=west]"
+      },
+      {
+        "char": "q",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "r",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "s",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "t",
+        "block": "create:cut_deepslate_bricks"
+      },
+      {
+        "char": "u",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=true,shape=straight,facing=east]"
+      },
+      {
+        "char": "v",
+        "block": "create:cut_deepslate_brick_stairs[half=bottom,waterlogged=true,shape=straight,facing=west]"
+      }
+    ]
+  }
+}

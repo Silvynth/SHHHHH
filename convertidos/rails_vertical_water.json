@@ -1,0 +1,380 @@
+{
+  "exportedpart": {
+    "xsize": 16,
+    "zsize": 16,
+    "slices": [
+      [
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafd    ",
+        "   deaaaaafg    "
+      ],
+      [
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    ",
+        "   nhiopoijq    "
+      ],
+      [
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    ",
+        "   b       b    "
+      ],
+      [
+        "   b       b    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   b  k k  b    "
+      ],
+      [
+        "   b       b    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   b  kk   b    "
+      ],
+      [
+        "   b       b    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   b    k  b    "
+      ],
+      [
+        "   b       b    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   c       c    ",
+        "   b       b    "
+      ],
+      [
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    ",
+        "   br     sb    "
+      ],
+      [
+        "   lbtttttbm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lb     bm    ",
+        "   lbuuuuubm    "
+      ],
+      [
+        "   dvbbbbbwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvcccccwd    ",
+        "   dvbbbbbwd    "
+      ]
+    ]
+  },
+  "palette": [
+    {
+      "char": "a",
+      "block": "create:cut_deepslate_bricks"
+    },
+    {
+      "char": "b",
+      "block": "create:layered_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "create:framed_glass"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:water",
+      "properties": {
+        "level": "0"
+      }
+    },
+    {
+      "char": "e",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "f",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:kelp",
+      "properties": {
+        "age": "23"
+      }
+    },
+    {
+      "char": "h",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "i",
+      "block": "create:cut_deepslate_brick_slab",
+      "properties": {
+        "waterlogged": "false",
+        "type": "bottom"
+      }
+    },
+    {
+      "char": "j",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "m",
+      "block": "create:cut_deepslate_brick_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "n",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "o",
+      "block": "railways:casing_collision",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "char": "p",
+      "block": "create:track",
+      "properties": {
+        "waterlogged": "false",
+        "shape": "zo",
+        "turn": "true"
+      }
+    },
+    {
+      "char": "q",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "top",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "r",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "west"
+      }
+    },
+    {
+      "char": "s",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "t",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "north"
+      }
+    },
+    {
+      "char": "u",
+      "block": "create:copycat_step",
+      "properties": {
+        "half": "top",
+        "waterlogged": "false",
+        "facing": "south"
+      }
+    },
+    {
+      "char": "v",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "east"
+      }
+    },
+    {
+      "char": "w",
+      "block": "copycats:copycat_stairs",
+      "properties": {
+        "half": "bottom",
+        "waterlogged": "true",
+        "shape": "straight",
+        "facing": "west"
+      }
+    }
+  ]
+}
